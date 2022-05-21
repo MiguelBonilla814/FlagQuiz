@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string name="titulo_activity_menu">Settings</string>
+    <string name="todo">TODO</string>
+    <string-array name="items">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="regions">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>North America</item>
+        <item>Oceania</item>
+        <item>South America</item>
+    </string-array>
+</resources>
